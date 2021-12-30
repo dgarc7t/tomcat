@@ -1,0 +1,56 @@
+1.- Administracion de AWS.
+     Creacion de instancias EC2.
+     Creacion de RDS.
+     Creacion de Bucket S3.
+     Creacion de Grupos de Seguridad
+     Creacion de usuarios IAM
+     Administracion de Bucket S3.
+     Administracion de Grupos de Seguridad.
+     Administracion de VPC
+     Administracion de listas de control de acceso
+     Administracion de Costos de AWS.
+     Otorgar privelegios a usuarios IAM
+     Monitoreo constante de la infraestructura de interkont en AWS.
+     
+2.- Configuracion de ambientes de Desarrollo, Calidad y Produccion.
+       Instalacion y configuracion de NGINX
+       Instalacion y configuracion de TOMCAT
+       Instalacion y configuracion de Postgresql
+
+3.- Respaldos.
+	Respaldo de Documentos en S3
+        Respaldo de Bases de Datos
+
+4.- Automatizacion de procesos con Jenkins.
+	Instalacion y configuracion de jenkins
+	Creacion de Jobs en jenkins
+	Actualizacion de Jenkins
+	Monitoreo de Jenkins
+        Trabajar en la integracion continua y entrega continua para agilizar procesos.
+
+5.- Soporte de infraestrucura.
+
+       Actualizacion de sistemas opetativos de los equipos.
+       Actualizacion de herramientas con ayuda del equipo de desarrollo.
+       Ampliacion de Capacidades de procesamiento y memoria
+       Ampliacion de discos y filesystem
+       Analisis de fallas de apliaciones por parte de infraestructura
+       Resolucion de fallas de apliaciones por parte de infraestructura
+       Atender requerimientos por parte del equipo de soporte (Respaldos de Documentos)
+       Agregar direcciones IPs a los grupos de seguridad (constantemente)
+
+6.- Analisis de Vulnerabilidades.
+	Creacion de informes.
+	Escaneo de vulneravilidades
+        Mitigacion de Vulnerabilidades
+
+
+
+        
+       
+	        
+
+
+
+
+       
